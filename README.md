@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is published here https://mahmut-mese.github.io/react-todo/
+
 
 ## Available Scripts
 
